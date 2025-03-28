@@ -1,4 +1,4 @@
 # FP2-Practica
-Practica de la asignatura FP2 de 1ºIngenieria informatica.
+Practica de la asignatura Fundamentos de la Programación de 1ºIngenieria informática-Matemáticas UCM. 
 
-Juego de mesa para 1 jugador, normas explicadas en el propio programa.
+Juego de mesa "Solitario" para 1 jugador, normas explicadas en el propio programa.
