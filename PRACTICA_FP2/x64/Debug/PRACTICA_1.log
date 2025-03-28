@@ -1,0 +1,6 @@
+﻿  CoPractica_1.cpp
+C:\Users\Diego\OneDrive - Universidad Complutense de Madrid (UCM)\DIEGO UCM\FP1\VISUAL STUDIO\PRACTICA_2\CoPractica_1.cpp(8,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  GestorPartidas.cpp
+  MainFunciones.cpp
+  Generando código...
+  PRACTICA_1.vcxproj -> C:\Users\Diego\OneDrive - Universidad Complutense de Madrid (UCM)\DIEGO UCM\FP1\VISUAL STUDIO\PRACTICA_2\x64\Debug\PRACTICA_1.exe
